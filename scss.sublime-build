@@ -1,0 +1,4 @@
+{
+    "shell_cmd": "cd C:/Program Files/sass-compiler && node index $file --dir='./build'",
+    "selector": "source.scss",
+}
